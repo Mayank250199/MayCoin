@@ -17,7 +17,7 @@ Producing a proof of work can be a random process with low probability so that a
 is required on average before a valid proof of work is generated. 
 
 # To Run
-->TO run first install node dependenciesby using command (npm install)
+->To run first install node dependenciesby using command (npm install)
 
 ->To create Blocks run command (node main.js)
 
