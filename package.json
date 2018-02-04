@@ -1,0 +1,14 @@
+{
+  "name": "maycoin",
+  "version": "1.0.0",
+  "description": "blockchain(block)",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Mayank Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
